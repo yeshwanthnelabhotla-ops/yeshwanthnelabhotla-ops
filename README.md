@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Yeshwanth Nelabhotla
 
-<!--
-**yeshwanthnelabhotla-ops/yeshwanthnelabhotla-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building practical software and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and working with Python, Java, Git, and GitHub while building projects that solve real-world problems.
+
+---
+
+## 🛠️ Skills
+
+- 🐍 Python
+- ☕ Java
+- 🌿 Git & GitHub
+- 📊 Microsoft Excel
+- 💡 Problem Solving
+- 🤖 AI-assisted Development
+
+---
+
+## 🎯 Current Goals
+
+- Build high-quality software projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Start my freelance journey
+
+---
+
+## 📂 Featured Projects
+
+Projects will be added here as I complete and improve them.
+
+---
+
+⭐ Thanks for visiting my profile!
