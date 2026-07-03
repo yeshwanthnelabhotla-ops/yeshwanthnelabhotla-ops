@@ -1,4 +1,4 @@
-# Hi 👋 I'm Yeshwanth Nelabhotla
+# Hi 👋 I'm Yeswanth Nelabhotla
 
 ## 💻 About Me
 
